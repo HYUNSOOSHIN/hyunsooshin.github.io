@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgatsby_starter_default=self.webpackChunkgatsby_starter_default||[]).push([[256],{7291:function(e,t,l){l.r(t);var a=l(7294),n=l(2280),r=l(9680);t.default=()=>a.createElement(n.Z,null,a.createElement(r.Z,{title:"404: Not found"}),a.createElement("div",{id:"container-404"},a.createElement("img",{src:"/images/hyunsoo.jpg"}),a.createElement("div",null,a.createElement("h1",null,"해당 페이지를 찾을 수 없습니다."),a.createElement("p",null,"다른 콘텐츠를 이용해주세요."))))}}]);
+//# sourceMappingURL=component---src-pages-404-jsx-532b5f76ee177fcd9105.js.map
